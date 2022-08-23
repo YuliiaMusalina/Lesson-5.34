@@ -1,0 +1,15 @@
+C:\Users\uliamusalina\Desktop\5.34\Task\5.34\bin\Debug\net6.0\5.34.exe
+C:\Users\uliamusalina\Desktop\5.34\Task\5.34\bin\Debug\net6.0\5.34.deps.json
+C:\Users\uliamusalina\Desktop\5.34\Task\5.34\bin\Debug\net6.0\5.34.runtimeconfig.json
+C:\Users\uliamusalina\Desktop\5.34\Task\5.34\bin\Debug\net6.0\5.34.dll
+C:\Users\uliamusalina\Desktop\5.34\Task\5.34\bin\Debug\net6.0\5.34.pdb
+C:\Users\uliamusalina\Desktop\5.34\Task\5.34\obj\Debug\net6.0\5.34.csproj.AssemblyReference.cache
+C:\Users\uliamusalina\Desktop\5.34\Task\5.34\obj\Debug\net6.0\5.34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliamusalina\Desktop\5.34\Task\5.34\obj\Debug\net6.0\5.34.AssemblyInfoInputs.cache
+C:\Users\uliamusalina\Desktop\5.34\Task\5.34\obj\Debug\net6.0\5.34.AssemblyInfo.cs
+C:\Users\uliamusalina\Desktop\5.34\Task\5.34\obj\Debug\net6.0\5.34.csproj.CoreCompileInputs.cache
+C:\Users\uliamusalina\Desktop\5.34\Task\5.34\obj\Debug\net6.0\5.34.dll
+C:\Users\uliamusalina\Desktop\5.34\Task\5.34\obj\Debug\net6.0\refint\5.34.dll
+C:\Users\uliamusalina\Desktop\5.34\Task\5.34\obj\Debug\net6.0\5.34.pdb
+C:\Users\uliamusalina\Desktop\5.34\Task\5.34\obj\Debug\net6.0\5.34.genruntimeconfig.cache
+C:\Users\uliamusalina\Desktop\5.34\Task\5.34\obj\Debug\net6.0\ref\5.34.dll
